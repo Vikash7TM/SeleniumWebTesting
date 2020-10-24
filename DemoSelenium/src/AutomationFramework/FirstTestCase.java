@@ -48,6 +48,7 @@ public class FirstTestCase {
 		}
 		
 		driver.close(); //closes the browser session
+		System.out.println("Browsing session ended");
 		
 		System.exit(0);
 		
